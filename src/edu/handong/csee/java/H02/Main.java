@@ -2,7 +2,7 @@ package edu.handong.csee.java.H02;
 import java.util.Scanner;
 import java.util.Random;
 
-class Main {
+public class Main {
     public static void main(String[] args) {
         Main stepH = new Main();
         stepH.h02();
